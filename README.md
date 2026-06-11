@@ -1,34 +1,21 @@
-<h1 align="center">Hi There👋, I'm Nadjah</h1>
+# Hi there , I'm Nadjah
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=benloulounadjahcirine&label=Profile%20views&color=0e75b6&style=flat" alt="benloulounadjahcirine" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=BENLOULOUNADJAHCIRINE&color=blue&style=flat-square)](https://github.com/BENLOULOUNADJAHCIRINE)
+### 🛠️ Tech Stack
 
-<h3 align="center">Languages and Tools:</h3>
+![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-333?style=for-the-badge&logo=jira&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-333?style=for-the-badge&logo=prisma&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-333?style=for-the-badge&logo=dart&logoColor=white) ![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white)
+
+### 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></td>
-    </tr>
-  </table>
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BENLOULOUNADJAHCIRINE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENLOULOUNADJAHCIRINE&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
 </div>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benloulounadjahcirine&" alt="benloulounadjahcirine" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BENLOULOUNADJAHCIRINE/BENLOULOUNADJAHCIRINE/output/github-contribution-grid-snake-dark.svg?v=2">
